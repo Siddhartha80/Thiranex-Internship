@@ -1,4 +1,3 @@
-Here’s a **clean, professional, recruiter-ready GitHub README** you can directly copy and use:
 
 ---
 
